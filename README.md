@@ -1,9 +1,9 @@
 # Sensitivity-Analysis-of-Meteorological-Variables-in-Load-Forecasting-Using-LSTM
 
 This repository contains code for forecasting electrical load demand based on meteorological variables using an LSTM (Long Short-Term Memory) deep learning model. The provided data includes temperature and load demand of Washington Dc, but the model can be applied to different meteorological variables such as relative humidity, precipitation, wind speed, dew point, and more.
-
-![LSTM Architecture](https://s30.picofile.com/file/8470343376/LSTM_NASIM_AMANI_github_comNasim_AmaniSensitivity_Analysis_of_Meteorological_Variables_in_Load_Forecasting_Using_LSTM.png)
-
+<p align="center">
+ <img src="https://s30.picofile.com/file/8470343376/LSTM_NASIM_AMANI_github_comNasim_AmaniSensitivity_Analysis_of_Meteorological_Variables_in_Load_Forecasting_Using_LSTM.png" alt="LSTM Architecture" width="600" height="400">
+</p>
 ## **Key Features**
 
 - Utilizes LSTM deep learning model for load forecasting.
